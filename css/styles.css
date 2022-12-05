@@ -40,7 +40,6 @@ body {
 	display: flex;
 	width: 100%;
 	padding: 20px;
-	border-bottom:solid 2px #ed8a5d;
 }
 
 .page-header_item {
