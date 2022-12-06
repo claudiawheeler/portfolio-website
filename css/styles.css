@@ -1,15 +1,14 @@
 /* 
 Colors Used
 
-Background Color (Gray): #dcdcdc
-Text Color (Dark Olive): #575544;
-Primary Color (Burnt Orange): #986148;
-Secondary Color (Sage Green): #7b7764;
+Text Color (Burnt Orange): #AE6027;
+Primary Color (Olive): #637b02;
+Secondary Color (Sage Green): #C7D1A1;
 */
 
 :root {
-	--primary-color: #986148;
-	--secondary-color: #7b7764;
+	--primary-color: #637b02;
+	--secondary-color: #c7d1a1;
 	--dark-grey: #2b2b2b;
 	--font-weight: 700;
 }
@@ -23,7 +22,7 @@ a {
 }
 
 body {
-	background-color: #dcdcdc;
+	background-color: #f4eee5;
 	font-family: 'Playfair Display', serif;
 	font-weight: 400;
 	font-size: 16px;
